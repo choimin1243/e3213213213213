@@ -1,2 +1,8 @@
+build-essential
+libgtk-3-dev
+libboost-all-dev
+freeglut3-dev
+cmake
+libopenblas-dev
 opencv-python==4.6.0.66
 streamlit==1.11.0
